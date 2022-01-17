@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/TurretsAPI
+/packages/StyleCop.Analyzers.1.1.118/analyzers/dotnet/cs
+/packages/StyleCop.Analyzers.1.1.118
+/TurretsAPI/bin/Debug
+/TurretsAPI/obj/Debug
